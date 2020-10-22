@@ -126,9 +126,9 @@ header div {
 
 /* DICA */
 
-#dica{
+#dica {
 	display: flex;
-	flex-direction: column;
+	float: left;
 	padding: 30px;
 	align-items: center;
 	text-align: center;
@@ -139,6 +139,12 @@ header div {
 	max-width: 900px;
 	font-size: 18px;
 	line-height: 1.5em;
+}
+
+#dica img{
+	padding: 20px;
+	width: 550px;
+	height: 400px;
 }
 
 /* DICA 1 */
