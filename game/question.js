@@ -7,23 +7,23 @@ const quiz = [
         answer:2
     },
     {
-        q:'O que é o lixo? ',
-        options: ['Tudo que o homem descarta', '', 'Florianópolis', 'Rio de Janeiro'],
+        q:'Compostagem é feita com o quê? ',
+        options: ['Lixo orgânico', 'Lixo espacial', 'Lixo Núclear', 'Lixo tóxico'],
         answer:0
     },
     {
-        q:'Em qual ano foi confirmado o primeiro caso da doença ?',
-        options: ['2017', '2018', '2020', '2019'],
+        q:'O que é reflorestamento? ',
+        options: ['Fazer novas casas', 'Construção de prédios comerciais', 'Reciclar lixo', 'Plantar novas árvores'],
         answer:3
     },
     {
-        q:'Qual desses sintomas o paciente do COVID-19 sente?',
-        options: ['Dor no polegar', 'Dor nas costas', 'Febre', 'Formigação na mão'],
-        answer:2
+        q:'Consumo de carne afeta o meio ambiente? ',
+        options: ['Não', 'Sim'],
+        answer:1
     },
     {
-        q:'Quem é mais propissio a pegar COVID ?',
-        options: ['Recém-nascidos', 'Adolescentes', 'Crianças', 'Idosos'],
+        q:'A produção de carros consome próximo a quantos litros de água ?',
+        options: ['40 mil', '100 mil', '60 mil', '400 mil'],
         answer:3
     }
 
